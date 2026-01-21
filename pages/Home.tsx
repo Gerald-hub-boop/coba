@@ -46,7 +46,7 @@ export default function Home() {
         <div className="absolute bottom-8 left-1/2 transform -translate-x-1/2 text-white/50 animate-bounce text-center">
   <span className="text-sm">Scroll Down</span>
 </div>
-
+</section>
       {/* About Section */}
       <section id="about" className="py-20 bg-white">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
