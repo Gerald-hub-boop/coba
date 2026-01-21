@@ -42,10 +42,10 @@ export default function Home() {
           </div>
         </div>
 
-        {/* Scroll Indicator */}
-        <div className="absolute bottom-8 left-1/2 transform -translate-x-1/2 text-white/50 animate-bounce text-center">
+       <div className="absolute bottom-8 left-1/2 transform -translate-x-1/2 text-white/50 animate-bounce flex flex-col items-center">
   <span className="text-sm">Scroll Down</span>
 </div>
+
 </section>
       {/* About Section */}
       <section id="about" className="py-20 bg-white">
